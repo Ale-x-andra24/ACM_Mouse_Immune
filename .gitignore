@@ -3,3 +3,4 @@ cache/
 *.h5ad
 *.sqlite
 *.png
+*.DS_Store

@@ -1,6 +1,7 @@
 data/
 cache/
 *.h5ad
+*.h5mu
 *.sqlite
 *.png
 *.DS_Store

@@ -1,8 +1,13 @@
 data/
 cache/
+GSEA/
 *.h5ad
 *.h5mu
 *.sqlite
 *.png
 *.DS_Store
-.gmt
+*.gmt
+*.xlsx
+*.pdf
+*.csv
+*.pkl

@@ -1,6 +1,8 @@
 data/
 cache/
 GSEA/
+Input_data/
+Output_data/
 *.h5ad
 *.h5mu
 *.sqlite

@@ -11,5 +11,5 @@ Output_data/
 *.gmt
 *.xlsx
 *.pdf
-*.csv
+*.csv 
 *.pkl

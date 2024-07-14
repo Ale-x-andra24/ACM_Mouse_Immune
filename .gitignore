@@ -1,3 +1,4 @@
+Input_data/
 data/
 cache/
 GSEA/
@@ -13,3 +14,10 @@ Output_data/
 *.pdf
 *.csv 
 *.pkl
+*.h5
+*.html
+*.tsv
+*.tsv.gz
+*.mtx
+*.mtx.gz
+

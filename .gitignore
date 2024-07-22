@@ -20,4 +20,5 @@ Output_data/
 *.tsv.gz
 *.mtx
 *.mtx.gz
+*.tiff
 

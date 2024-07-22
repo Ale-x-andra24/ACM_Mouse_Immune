@@ -11,7 +11,6 @@ Output_data/
 *.DS_Store
 *.gmt
 *.xlsx
-*.pdf
 *.csv 
 *.pkl
 *.h5
@@ -20,5 +19,5 @@ Output_data/
 *.tsv.gz
 *.mtx
 *.mtx.gz
-*.tiff
+
 
